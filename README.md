@@ -1,0 +1,2 @@
+# ruminationcplusplus
+Rumination on C++
